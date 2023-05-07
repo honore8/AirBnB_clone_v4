@@ -157,6 +157,6 @@ No known bugs at this time.
 HONORE KOKOU LATA
 Allan Masiga
 
-Second part of Airbnb: Joann Vuong
+
 ## License
 Public Domain. No copy write protection. 
